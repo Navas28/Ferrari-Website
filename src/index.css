@@ -1,0 +1,16 @@
+/* font-family: "Poppins", serif;
+font-family: "Roboto", serif;
+font-family: "Oswald", serif;
+font-family: "Merriweather", serif; */
+
+:root{
+    --primary-font : "Poppins", serif;
+    --secondary-font : "Roboto", serif;
+    --heading-font :  "Merriweather", serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
