@@ -1,7 +1,7 @@
 import style from "./Hero.module.css";
 import arrowIcon from '../../assets/icons8-arrow-50.png'
 import playIcon from '../../assets/icons8-play-48.png'
-import pauseIcon from '../../assets/icons8-pause-48 (1).png'
+import pauseIcon from '../../assets/icons8-pause-48.png'
 
 const Hero = ({ heroData, setHeroCount, heroCount, setPlayStatus, playStatus }) => {
     return (
