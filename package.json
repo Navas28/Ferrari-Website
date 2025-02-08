@@ -2,6 +2,7 @@
   "name": "ey-react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Navas28.github.io/Ferrari-Website",
   "type": "module",
   "scripts": {
     "dev": "vite",
