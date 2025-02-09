@@ -20,5 +20,3 @@ A sleek, responsive website showcasing the **Ferrari F80**, built with **React**
 [Click Here to View the Website](https://ferrari-website.vercel.app/)  
 
 
-## 📸 Screenshot
-![Ferrari Website Screenshot](./src/assets/home-page.png)
