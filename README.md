@@ -14,9 +14,15 @@ A sleek, responsive website showcasing the **Ferrari F80**, built with **React**
 - **React** – Component-based UI development  
 - **Vite** – Fast front-end build tool  
 - **CSS/SCSS** – Responsive styling  
-- **JavaScript (JSX)** – Interactive elements  
+- **JavaScript (JSX)** – Interactive elements
+
+## 📸 Screenshot
+![Ferrari Website Screenshot](./src//assets/ferrari-home.png)
+
 
 ## 🚀 Live Demo
 [Click Here to View the Website](https://ferrari-website.vercel.app/)  
+
+
 
 
